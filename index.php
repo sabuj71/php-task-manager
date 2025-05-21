@@ -9,7 +9,7 @@
 <body class="bg-light">
   <div class="container py-5">
     <div class="d-flex justify-content-between align-items-center mb-4">
-      <h1 class="h3">Task Management </h1>
+      <h1 class="h3">PHP TODO MANAGER </h1>
       <a href="create.php" class="btn btn-primary">+ Add New Task </a>
     </div>
     <table class="table table-hover table-bordered bg-white shadow-sm">
